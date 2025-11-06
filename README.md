@@ -30,17 +30,17 @@ Replace with your Gmail credentials:
   Use admin panel to create customer account 
   Account details will be emailed automatically
 
-### 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-#    Python | Tkinter | SQLite | OTP Security | Email Integration
+###   Python | Tkinter | SQLite | OTP Security | Email Integration
 
 
-### 🔐 Security Features
+# 🔐 Security Features
 
   -> CAPTCHA Verification 
   -> OTP Authentication  
   -> Secure Transaction Processing    
   -> Email Notifications
 
-### 💡 Skills Demonstrated
-  # Full-stack Python development with database management, GUI design, and security implementation.
+# 💡 Skills Demonstrated
+  ### Full-stack Python development with database management, GUI design, and security implementation.
